@@ -1,8 +1,8 @@
 namespace designpattenscsharp.Strategy
 {
-    public class Program
+    public class Strategy
     {
-        public static void Main(string[] args)
+        public static void Testar()
         {
             var conta = new Conta(5000);
             var investidor = new RealizadorDeInvestimentos();

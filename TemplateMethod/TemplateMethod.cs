@@ -1,8 +1,8 @@
 namespace designpattenscsharp.TemplateMethod
 {
-    public class Program
+    public class TemplateMethod
     {
-        public static void Main(string[] args)
+        public static void Testar()
         {
             var orcamento = new Orcamento(100);
             orcamento.AdicionarItem(new Item("caneta", 100));

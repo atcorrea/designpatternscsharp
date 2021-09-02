@@ -1,8 +1,8 @@
 namespace designpattenscsharp.TemplateMethod.RelatorioBanco
 {
-    public class Program
+    public class RelatorioBanco
     {
-        public static void Main(string[] args)
+        public static void Testar()
         {
             var contas = new List<Conta>()
             {

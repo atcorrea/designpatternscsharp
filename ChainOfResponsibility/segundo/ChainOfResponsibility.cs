@@ -1,8 +1,8 @@
 namespace designpattenscsharp.ChainOfResponsibility.segundo
 {
-    public class Program
+    public class ChainOfResponsibility
     {
-        public static void Main(string[] args)
+        public static void Testar()
         {
             var conta = new Conta(2000d, "Martin");
 

@@ -1,4 +1,4 @@
-namespace designpattenscsharp.TemplateMethod
+namespace designpattenscsharp.Decorator
 {
     public class Orcamento
     {
