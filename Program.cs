@@ -1,3 +1,5 @@
 ﻿using designpattenscsharp.Decorator.Banco;
+using designpattenscsharp.State;
+using designpattenscsharp.State.Banco;
 
-DecoratorBanco.Testar();
+BancoState.Testar();
