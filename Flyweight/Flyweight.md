@@ -1,0 +1,1 @@
+A diferença entre Flyweight e Singleton é que o Flyweight garante que existam apenas uma única instância de vários elementos. É um "singleton maior".
