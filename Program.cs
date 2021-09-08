@@ -9,3 +9,6 @@ using designpattenscsharp.Estruturais.Decorator.Banco;
 using designpattenscsharp.Estruturais.Flyweight;
 using designpattenscsharp.Criacionais.Builder;
 using designpattenscsharp.Criacionais.Factory;
+using designpattenscsharp.Comportamentais.Memento;
+
+Memento.Testar();
